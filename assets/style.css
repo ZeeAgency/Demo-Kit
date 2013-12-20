@@ -1,0 +1,18 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 0; /* Evite les espaces blancs */
+}
+img {
+	display: none;
+	max-width: 100%;
+	height: auto;
+}
+img.active {
+	display: inline;
+}
+a, input, button {
+    -ms-touch-action: none !important;
+}
