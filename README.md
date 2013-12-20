@@ -11,12 +11,12 @@ Kit de demo HTML / Images pour les présentations client
 - Consultez !
 
 # Killer features
-- *Single Page* : tout tient en une seule page, pas de rafraîchissement ennuyeux !
-- *Over-eager Loading* : les images se chargent le plus tôt possible, quand la page est chargée, elles sont chargées.
-- *Loop* : quand vous avez fait le tour des images ça revient au début !
-- *Responsive* : Pas de scroll horizontal quoi...
-- *FastClick* : librairie qui permet de réagir plus vite au "tap" sur les appareils tactiles
-- Last but not least... *Offline* ! Vous n'êtes pas assurés d'avoir le net ? Pas de problème !
+- _Single Page_ : tout tient en une seule page, pas de rafraîchissement ennuyeux !
+- _Over-eager Loading_ : les images se chargent le plus tôt possible, quand la page est chargée, elles sont chargées.
+- _Loop_ : quand vous avez fait le tour des images ça revient au début !
+- _Responsive_ : Pas de scroll horizontal quoi...
+- _FastClick_ : librairie qui permet de réagir plus vite au "tap" sur les appareils tactiles
+- Last but not least... _Offline_ ! Vous n'êtes pas assurés d'avoir le net ? Pas de problème !
 	- Consultez la page sur le serveur
 	- Téléchargez le kit *du serveur* sur votre machine
 	- Vous trouverez un fichier index.html qui fonctionne même hors-ligne !
